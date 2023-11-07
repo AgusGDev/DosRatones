@@ -16,6 +16,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#424163', end
 background-repeat:no-repeat;
 background-attachment:fixed;
 background-size:100%;
+    max-height:1280;
+    max-width:720;
 }
 
 div#general{
