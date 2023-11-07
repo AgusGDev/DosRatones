@@ -3,6 +3,10 @@
     src: url(Font.ttf);
 }
 
+html, body {
+     min-height: 100%;
+}
+
 body{
 /* Permalink - use to edit and share this gradient. Enlace permanente - úsalo para editar y compartir este gradiente: https://colorzilla.com/gradient-editor/#424163+0,2d3875+100 */
 background: #424163; /* Old browsers */
